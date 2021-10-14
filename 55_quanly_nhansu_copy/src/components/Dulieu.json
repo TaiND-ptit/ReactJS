@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Tài",
+        "tel":"12432657",
+        "permission":1
+
+    },
+    {
+        "id": 5,
+        "name": "Thắm",
+        "tel":"34336247",
+        "permission":3
+
+    },
+    {
+        "id": 2,
+        "name": "Tú",
+        "tel":"1242526",
+        "permission":2
+
+    },
+    {
+        "id": 3,
+        "name": "Tùng",
+        "tel":"83271557",
+        "permission":1
+
+    },
+    {
+        "id": 4,
+        "name": "Toàn",
+        "tel":"47594733",
+        "permission":2
+
+    },
+    {
+        "id": 6,
+        "name": "Trung",
+        "tel":"937474945",
+        "permission":3
+
+    }
+]
